@@ -1,2 +1,6 @@
 # Python_Sorting
-Sorting Algorithms in Python. - Rendező algoritmusok Python nyelven. 
+English version:
+Sorting Algorithms in Python.
+
+Magyar verzió:
+Rendező algoritmusok Python nyelven. 
